@@ -1,4 +1,3 @@
-<img src="https://cdn.prod.website-files.com/677c400686e724409a5a7409/6790ad949cf622dc8dcd9fe4_nextwork-logo-leather.svg" alt="NextWork" width="300" />
 
 # Multi-Cloud Data Transfer with AWS and GCP
 
@@ -111,7 +110,7 @@ I verified the success of my data transfer by visiting the Google Cloud Storage 
 
 There, I confirmed that all the objects originally uploaded to the AWS S3 bucket were now present in the GCS bucket, indicating that the transfer was completed accurately and without data loss.
 
-![Image](http://learn.nextwork.org/delighted_indigo_timid_orc/uploads/aws-multicloud-storage_rththrthrth)
+
 
 ---
 
